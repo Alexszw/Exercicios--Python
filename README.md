@@ -1,2 +1,2 @@
 # Exercicios--Python
-Resolução exercicios de estrutura sequenciall Python
+Resolução exercicios de estrutura sequenc  Python
