@@ -30,7 +30,9 @@ for n in range(1, numero_tentativas):
 		else :
 			print('O número digitado é inválidp !')
 			break
-
+	else :
+		print('Número inválido !')
+		break
 
 
 
